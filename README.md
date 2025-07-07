@@ -3,7 +3,7 @@ Interactive Power BI dashboard analyzing 1,500+ e-commerce orders across countri
 
 [🔗 View Live Dashboard in Power BI](https://app.powerbi.com/view?r=eyJrIjoiMzhkNzlhMjEtNzA4ZC00NDhhLWJlYmEtYzIxNWRlYmZiMDE3IiwidCI6ImI4ODFlZmNiLTgxZjAtNGVlMy1hMjgwLTA1OTgzODRiNWRiOCIsImMiOjZ9)
 
-<!--  ![Dashboard Preview](path-to-your-image.png) -->
+![Dashboard Preview](Ecommerce_Orders_Dashboard.jpg)
 
 ## Project Overview
 I designed this interactive Power BI dashboard to analyze over 1,500 e-commerce orders across multiple countries. It highlights key metrics like customer return rate, order trends, and category performance. The dashboard includes dynamic filters, map visuals, and customer behavior insights to drive business decisions. It demonstrates my ability to create clean, analytical, and executive-ready reports using Power BI and DAX.
